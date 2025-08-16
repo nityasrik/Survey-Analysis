@@ -1,4 +1,4 @@
-# 🧠 Digital Focus Insights Dashboard
+# Digital Focus Insights Dashboard
 
 An interactive web dashboard built to analyze and visualize survey data on digital behavior, attention spans, and focus habits. This tool helps uncover how different demographics are navigating the challenges of digital distraction in a hyper-connected world.
 
